@@ -1,3 +1,3 @@
-# Steps to implement Glue Jobs along with using Step Functions locally using Docker
+# Implementing AWS Glue Jobs Locally Using Docker with Step Functions for Orchestration
 
-
+## Step 1 :- Install SAM and AWS CLI using homebrew
