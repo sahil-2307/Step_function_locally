@@ -2,7 +2,7 @@
 set -e  # Exit immediately on error
 
 # Configuration
-WORKSPACE_LOCATION=~/glue-local-poc
+WORKSPACE_LOCATION=~/Step_Function_Locally/glue-local-poc
 PROFILE_NAME=default  # Your AWS CLI profile
 GLUE_IMAGE=public.ecr.aws/glue/aws-glue-libs:5
 
